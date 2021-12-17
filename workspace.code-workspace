@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\SEM 4\\sicpns3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gfarm"
+	}
+}
